@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		2DB702A6262B29910012A074 /* textFieldStudy.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = textFieldStudy.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		2DB702A6262B29910012A074 /* textViewStudy.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = textViewStudy.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2DB702A9262B29910012A074 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2DB702AB262B29910012A074 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		2DB702AD262B29910012A074 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -48,7 +48,7 @@
 		2DB702A7262B29910012A074 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				2DB702A6262B29910012A074 /* textFieldStudy.app */,
+				2DB702A6262B29910012A074 /* textViewStudy.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -70,9 +70,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		2DB702A5262B29910012A074 /* textFieldStudy */ = {
+		2DB702A5262B29910012A074 /* textViewStudy */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2DB702BA262B29930012A074 /* Build configuration list for PBXNativeTarget "textFieldStudy" */;
+			buildConfigurationList = 2DB702BA262B29930012A074 /* Build configuration list for PBXNativeTarget "textViewStudy" */;
 			buildPhases = (
 				2DB702A2262B29910012A074 /* Sources */,
 				2DB702A3262B29910012A074 /* Frameworks */,
@@ -82,9 +82,9 @@
 			);
 			dependencies = (
 			);
-			name = textFieldStudy;
+			name = textViewStudy;
 			productName = textFieldStudy;
-			productReference = 2DB702A6262B29910012A074 /* textFieldStudy.app */;
+			productReference = 2DB702A6262B29910012A074 /* textViewStudy.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -101,7 +101,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 2DB702A1262B29910012A074 /* Build configuration list for PBXProject "textFieldStudy" */;
+			buildConfigurationList = 2DB702A1262B29910012A074 /* Build configuration list for PBXProject "textViewStudy" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -114,7 +114,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				2DB702A5262B29910012A074 /* textFieldStudy */,
+				2DB702A5262B29910012A074 /* textViewStudy */,
 			);
 		};
 /* End PBXProject section */
@@ -296,7 +296,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "-se7olod.textFieldStudy";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -315,14 +315,14 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "-se7olod.textFieldStudy";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		2DB702A1262B29910012A074 /* Build configuration list for PBXProject "textFieldStudy" */ = {
+		2DB702A1262B29910012A074 /* Build configuration list for PBXProject "textViewStudy" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2DB702B8262B29930012A074 /* Debug */,
@@ -331,7 +331,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2DB702BA262B29930012A074 /* Build configuration list for PBXNativeTarget "textFieldStudy" */ = {
+		2DB702BA262B29930012A074 /* Build configuration list for PBXNativeTarget "textViewStudy" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2DB702BB262B29930012A074 /* Debug */,
